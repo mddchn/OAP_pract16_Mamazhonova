@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "pract16_1_oap_mamazhonova/1.0.0": {
+        "runtime": {
+          "pract16_1_oap_mamazhonova.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pract16_1_oap_mamazhonova/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
